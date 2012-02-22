@@ -1,0 +1,73 @@
+#back
+{
+	position:absolute;
+	top:0;
+	left:0;
+}
+ 
+#slot1
+{
+	position:relative;
+	margin-top:160px;
+	margin-left:50px;
+}
+
+#slot2
+{
+	position:relative;
+	margin-top:160px;
+	margin-left:50px;
+}
+
+#slot3
+{
+	position:relative;
+	margin-top:160px;
+	margin-left:50px;
+}
+
+#button
+{
+	position:absolute;
+	top:2px;
+	left:600px;
+}
+
+#header
+{
+	position:absolute;
+	top:10px;
+	left:50px;
+	font-weight:bold;
+	font-size:40pt;
+	color:black;
+}
+
+.userInfo
+{
+	position:absolute;
+	left:50px;
+	font-size:24pt;
+	color:black;
+}
+
+#name
+{
+	top:70px;
+}
+
+#credits
+{
+	top:110px;
+}
+
+#win
+{
+	position:absolute;
+	visibility:hidden;
+	left:165px;
+	font-size:70pt;
+	top:450px;
+	color:black;
+	font-weight:bold;
+}
