@@ -1,0 +1,7 @@
+DRINK LOTTO
+
+Lottery game costs two credits to play.
+Matching three slots wins you a random drink from big drink.
+Credits are taken from a drinklotto user account, which acts as the "pool."
+
+Written in Javscript and PHP
