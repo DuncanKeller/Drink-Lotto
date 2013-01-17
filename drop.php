@@ -42,8 +42,7 @@ while(socket_recv($socket, $buf, 1, 0))
     $msg .= $buf;
 }
 
-//send the motherfuckin password
-$commmand = "PASS reamer0(turgidly\n";
+
 
 socket_send($socket, $commmand , 1024, 0);
 
